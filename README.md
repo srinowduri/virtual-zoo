@@ -5,6 +5,19 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+# 🐯 Virtual Zoo - Wild Learning Hub
+
+A React app that brings animals to life with animations, sounds, and fun facts!  
+Explore the wild, roar like a tiger, and learn in a fun, interactive way.  
+Backend powered by Node.js (coming soon) + Redux for state management.
+
+## 📦 Tech Stack
+- React
+- Node.js (coming soon)
+- Redux (coming next)
+- CSS Modules
+- JSON-based dynamic data
+
 
 ### `npm start`
 

@@ -1,0 +1,35 @@
+{
+    "elephant": {
+        "name": "Elephant",
+        "image": "/assets/Elephant.gif",
+        "scientificName": "Elephas maximus",
+        "habitat": "Grasslands, forests, and savannas across Asia and Africa",
+        "diet": "Herbivore",
+        "lifespan": "60 to 70 years",
+        "funFact": "Elephants use their trunks for breathing, smelling, touching, and more.",
+        "sound": "elephant.mp3",
+        "description": "Elephants are gentle giants known for their intelligence, memory, and strong family bonds."
+    },
+    "tiger": {
+        "name": "Bengal Tiger",
+        "image": "/assets/tiger_gif.gif",
+        "scientificName": "Panthera tigris",
+        "habitat": "Forests and grasslands in Asia",
+        "diet": "Carnivore",
+        "lifespan": "10 to 15 years",
+        "funFact": "Tigers are excellent swimmers and each has unique stripes.",
+        "sound": "bengal-tiger-roar.mp3",
+        "description": "The Bengal Tiger is the most numerous tiger subspecies. It is found primarily in India, with smaller populations in Bangladesh, Nepal, Bhutan, China, and Myanmar."
+    },
+    "lion": {
+        "name": "Lion",
+        "image": "/assets/Lion.gif",
+        "scientificName": "Panthera leo",
+        "habitat": "Savannas, grasslands, and open woodlands of sub-Saharan Africa",
+        "diet": "Carnivore",
+        "lifespan": "10 to 14 years in the wild",
+        "funFact": "Lions are the only big cats that live in social groups called prides.",
+        "sound": "lion-roar.mp3",
+        "description": "African lions are powerful predators known for their majestic manes and social behavior. Males defend the pride’s territory, while females do most of the hunting."
+    }
+}
