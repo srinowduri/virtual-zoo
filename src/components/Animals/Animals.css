@@ -22,6 +22,10 @@
     gap: 5px;
     justify-content: center;
     flex-wrap: wrap;
+    /* display: none;
+  visibility: hidden;
+  color: transparent;
+  position: absolute; left: -9999px; */
   }
   
   .animal-buttons button {
